@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CryptoProto2</string>
+    <string name="textview_password">Enter your wallet password.</string>
+    <string name="textview_address">Enter destination address.</string>
+    <string name="textview_amount_of_funds_to_send">Enter amounts of ETH to send.</string>
+    <string name="submit">submit</string>
+</resources>
