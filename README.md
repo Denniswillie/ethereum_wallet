@@ -1,4 +1,3 @@
 # ethereum_wallet
-Final year undergraduate project
 
-Hopefully will get more functionalities as the project goes.
+Ongoing ethereum wallet side project. Will add more functionalities :))
